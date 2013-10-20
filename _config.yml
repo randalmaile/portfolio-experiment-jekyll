@@ -1,0 +1,4 @@
+name: Randal Maile Portfolio
+markdown: redcarpet
+pygments: true
+baseurl: /portfolio-site
